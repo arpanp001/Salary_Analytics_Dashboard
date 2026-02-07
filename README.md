@@ -10,7 +10,7 @@ This Excel dashboard helps job seekers analyze salary trends across data-related
 
 ### Dashboard File
 
-My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
+My final dashboard is in [1_Salary_Dashboard.xlsx](Project_1-%20Salary%20Dashboard/1_Salary_Dashboard.xlsx).
 
 ### Excel Skills Used
 
